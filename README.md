@@ -60,8 +60,4 @@ You can modify the following parameters in the code:
 - DNS timeout (currently 3 seconds)
 - DNS retry attempts (currently 2)
 - HTTP request timeout (currently 10 seconds)
-- Target URL for testing (currently "https://travelomatrix.com")
-
-## License
-
-[Add your license information here]
+- Target URL for testing (currently "https://google.com")

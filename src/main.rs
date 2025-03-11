@@ -111,7 +111,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     debug!("Client built successfully with custom DNS resolver");
 
     // Define the URL to test DNS caching
-    let url = "https://travelomatrix.com";
+    let url = "https://google.com";
 
     // Make multiple requests to demonstrate caching and measure DNS time
     for i in 1..=5 {  
